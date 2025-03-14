@@ -1,5 +1,5 @@
 
-[Click here to view the project](https://yourusername.github.io/repository-name/)
+[Click here to view the project](https://pushpraj7d.github.io/Random-color-generator/)
 
 ## Overview
 The **Random Color Generator** is a simple web application that generates a random color when a button is clicked. The generated color is displayed both as text and as the background color of a div element.
